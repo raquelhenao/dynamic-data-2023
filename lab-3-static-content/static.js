@@ -4,7 +4,6 @@
 const http = require('http')
 const fs = require('fs')
 
-//Define the port the app will be accessed from (80,8080,8888 are default to the domain /)
 const port = process.env.PORT || 3000
 
 
@@ -41,10 +40,6 @@ const displayPage = (path,res,contentType, responseCode = 200) => {
         displayPage ('/public/404.html' ,response, "text/html", 400)
         break
     }
-
-
-
 })
-
 
 server.listen(port, () => console.log("server started on port " + port + " press ctrl + c to stop" ))
