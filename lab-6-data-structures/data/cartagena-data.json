@@ -1,0 +1,95 @@
+{
+    "title": "Cartagena",  
+    "description": "Cartagena is a city that is located on the shores of the Caribbean Sea, in the northwestern part of the South American continent. If you are wondering where is Cartagena in Colombia, it is located in the north of the country and is the capital of the Bolívar region. The city has several archipelagos and islands around that are paradises for true rest. Among these are Tierra Bomba Island, Múcura Islan, and Barú Island, among others. Cartagena de Indias is known, brings together the charm of colonial architecture, the excitement of a vivid night life, fascinating cultural festivals, and lush landscapes, to bring you the perfect vacation experience. The city’s beaches beckon, inviting you to unwind and enjoy yourself in the refreshing breeze and warm waters of the sea. But that’s not all Cartagena has to offer— the city also has excellent cuisine and a thriving hotel and tourist infrastructure. This fabulous destination holds the secrets of history within its walled city, on its balconies, and in the narrow stone walkways that inspired author Gabriel García Márquez, who was received the Nobel Prize in Literature in 1982. Framed by its stunning bay, Cartagena de Indias is one of the most beautiful, well-preserved cities in the Americas; a treasure that is currently one of the most heavily frequented tourist destinations in Colombia.", 
+     "slideshow": [
+         "/img/city4/carta1.jpg" ,
+         "/img/city4/carta2.jpg" ,
+         "/img/city4/carta3.jpg"
+     ],
+     "services":[
+         {
+             "title": "Cartagena Transportation" ,
+             "intro": "So you are thinking of spending some time in Cartagena (or Cartagena de Indias if we are being specific)? Great! This Caribbean coastal city is an awesome place to base yourself if you are looking to combine both work and adventure - especially of the water variety. But you might be wondering how to actually get around the colorful city. Well, luckily because of how close knit the city is, you can usually get around and see a lot of the top sites easily by using either the public bus, renting a motorcycle, or (more often than not) simply by using your own two feet." ,
+             "lists": [
+                 "TransCaribe Buses",
+                 "Bicycle",
+                 "Motorcycle"
+             ],
+             "image":"/img/city4/cartatrans.jpg"
+             
+         },
+         {
+             "title": "Shopping in Cartagena" ,
+             "intro": "One of the things I loved most about Cartagena’s Old Town is how it was full of amazing Colombian designers, rather than the usual global luxury houses. World renowned luxury labels such as Agua Bendita and Silvia Tcherassi rub shoulders with emerging Colombian talent here. Even better, prices on established luxury labels such as Agua Bendita and Silvia Tcherassi are much better in Colombia than they are when purchasing internationally, as you don’t pay import. If you’re a seamstress yourself, head to Cartagena’s equivalent of New York’s garment district in the Old Town, where you’ll find silk by the meter for a steal. The shopping scene in Cartagena, and in Colombia as a whole, is a true testament to the talent and unique flair of Colombian designers." ,
+             "lists": [
+                 "La Serrezuela",
+                 "Plaza Bocagrande Centro Comercial",
+                 "Mall Plaza El Castillo"
+             ],
+             "image":"/img/city4/market.jpg"
+         },
+         {
+            "title": "Highlights of the City" ,
+            "intro": "I’m of the mindset that you don’t come to Cartagena for the landmarks, you come for the vibes. It’s definitely a wandering city, filled with picturesque corners and winding streets in Old Town and Getsmani. However, there are definitely some unmissable things to do in Cartagena. I loved sitting in Centenario Park, watching the monkeys in the trees, and walking the wall at sunset for one of the city’s prettiest views." ,
+            "lists": [
+                "Walled City of Cartagena",
+                "Castillo de San Felipe de Barajas",
+                "Sanctuary of Saint Peter Claver"
+            ],
+            "image":"/img/city4/highlight.jpg"
+        },{
+            "title": "Restaurants and Bars" ,
+            "intro": "Cartagena’s culinary scene is teeming with flavor. From innovative fine dining such as Carmen, to delectable street food at Arepas Colombitalia, and craft cocktails with local indigenous liquors at Alquimico, there’s something for everyone. Carmen is easily one of the best restaurants in Colombia. With locations in both Medellín and Cartagena, this innovative restaurant has become a staple of the Colombian fine dining scene." ,
+            "lists": [
+                "Carmen",
+                "Alma",
+                "La Cevicheria"
+            ],
+            "image":"/img/city4/food.jpg"
+        }
+     ],
+     "packages":[
+         {
+             "title":"Governor’s Palace",
+             "image": "/img/city4/casa.jpeg",
+             "text":"La Casa del Cabildo, also called the Governor’s Palace, is the provincial government headquarters, and its architecture is an imitation of the palaces of Old Castille, Spain. The use of this building for administrative purposes is not new, since the city council dispatched from there in 1767.",
+             "price":"50",
+             "duration":"3 hours"
+         },
+         {
+             "title":"Diving in Cartagena",
+             "image": "/img/city4/scuba.jpeg",
+             "text":"Travelers from around the world come to dive in the Rosario Islands, the San Bernardo Archipelago, and at Barú. Divers are amazed by the variety and color of underwater life here. Highlights include the Salmedina bank, Bajo Burbujas,and the “Underwater Mountain.” are all great places for a dive.",
+             "price":"650",
+             "duration":"8 hours"
+         },
+         {
+             "title":"Matute Brook",
+             "image": "/img/city4/matute.jpeg",
+             "text":"Matute Brook in the town of Turbaco is born from underground streams that are fed by rains extending from May to November. Six miles long, it flows between farms on the right side of the Main Road West, between Turbaco and Cartagena. Here you can hike and appreciate nature.",
+             "price":"45",
+             "duration":"3 hours"
+         },
+         {
+             "title":"Adolfo Mejía Theatre",
+             "image": "/img/city4/mejia.jpeg",
+             "text":"Built in the style of 18th and 19th century European opera houses, the Teatro Heredia was built in a horseshoe shape, with boxes and balconies divided by cedar lace-like lattices. It was built on the grounds of the old Merced church and was inaugurated in 1911 with the Floral Games.",
+             "price":"40",
+             "duration":"5 hours"
+         },
+         {
+             "title":"Fort San Fernando de Bocachica",
+             "image": "/img/city4/boca.jpeg",
+             "text":"The Fort of San Fernando de Bocachica was built in a horseshoe shape on a high spot on the island of Carex. The island is now called Tierrabomba. The plans for the fort were drafted by the engineer Mac Evan and work on it began in 1753.",
+             "price":"300",
+             "duration":"1 Day"
+         },
+         {
+             "title":"Cartagena Classical Music Festival",
+             "image": "/img/city4/festi.jpeg",
+             "text":"The hill of La Popa, the castle of San Felipe, the Adolfo Mejia Theatre, and the Gethsemane auditorium are some of the venues where the musical works of the most renowned composers in history are performed for residents and visitors every January, during the Music Festival.",
+             "price":"150",
+             "duration":"12 hours"
+         }
+     ]
+ }

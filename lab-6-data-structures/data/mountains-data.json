@@ -1,0 +1,31 @@
+{
+   "title": "Mountains",   
+    "slideshow": [
+        "/img/slides/slide1.jpg" ,
+        "/img/slides/slide2.jpg" ,
+        "/img/slides/slide3.jpg"
+    ],
+    "services":[
+        {
+            "title": "Transportation" ,
+            "intro": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id est qui ad mollitia quos" ,
+            "lists": [
+                "Service 1",
+                "Service 2",
+                "Service 3"
+            ],
+            "image":"/img/homepage/transportation.jpg",
+            "show":"show"
+        },
+        {
+            "title": "Miami Tours" ,
+            "intro": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Id est qui ad mollitia quos" ,
+            "lists": [
+                "Service 1",
+                "Service 2",
+                "Service 3"
+            ],
+            "image":"/img/homepage/tours.jpg"
+        }
+    ]
+}

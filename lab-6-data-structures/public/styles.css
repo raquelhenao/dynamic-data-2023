@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@300;500&display=swap');
+
+.mukta {font-family: 'Mukta', sans-serif; font-weight: 300;}
+
+.mukta-bold {font-family: 'Mukta', sans-serif; font-weight: 500;}
+
+/*body {
+    background-color: #CCCCCC; 
+
+} */
+
+.white-bg {
+    background-color: #FFFFFF;
+}
+
+.primary-color {
+    color: #FFEFC1;
+}
+
+.primary-color-light, nav .secondary-color-light:hover {
+     color: #F6E1A4;
+}
+
+.primary-color-bg {
+    background-color: #FFEFC1;
+}
+
+.primary-color-light-bg {
+     background-color: #F6E1A4;
+}
+
+.secondary-color {
+    color: #413C2E;
+}
+
+.secondary-color-light {
+    color: #E6B112;
+}
+
+.secondary-color-bg {
+    background-color: #FFD453;
+}
+
+.secondary-color-light-bg {
+    background-color: #E6A812;
+}
+
+.accordion-button:not(.collapsed) {
+    color: #413C2E;
+    background-color: #E6A812 ;
+
+}
+
+/* remove owl nal previous and next buttons */
+
+.owl-nav {
+    display: none;
+}
+
+.section-divider {
+    padding: 1rem;
+}
+
+.gallery-img img{
+    object-fit: cover;
+    height: 20rem;
+    aspect-ratio:1 /1;
+}
+
+footer{
+    padding: 3rem;
+}

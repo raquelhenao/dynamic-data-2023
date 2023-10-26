@@ -1,0 +1,54 @@
+{
+    "images":[
+       { 
+        "url":"/img/gallery/gallery1.jpg",
+        "title":"Walking the cities gives you the best views"
+    },
+    { 
+        "url":"/img/gallery/gallery2.jpg",
+        "title":"At Panaca you can learn about the culture first hand"
+    },   { 
+        "url":"/img/gallery/gallery3.jpg",
+        "title":"You can discover paradise"
+    },   { 
+        "url":"/img/gallery/gallery4.jpg",
+        "title":"Our buildings are known for our creative use of color"
+    },   { 
+        "url":"/img/gallery/gallery5.jpg",
+        "title":"Let yourself explore our countryside"
+    },   { 
+        "url":"/img/gallery/gallery6.jpg",
+        "title":"Nightlife in Colombia is unforgetable"
+    },   { 
+        "url":"/img/gallery/gallery7.jpg",
+        "title":"Our smaller towns have so much to offer"
+    },   { 
+        "url":"/img/gallery/gallery8.jpg",
+        "title":"Take a stroll down our streets, see where it will lead you!"
+    },   { 
+        "url":"/img/gallery/gallery9.jpg",
+        "title":"Our capital holds so much rich history"
+    },   { 
+        "url":"/img/gallery/gallery10.jpg",
+        "title":"Take a helicopter tour to view the city skylines"
+    },   { 
+        "url":"/img/gallery/gallery11.jpg",
+        "title":"Your favorite sunsets will be the ones in Colombia"
+    },   { 
+        "url":"/img/gallery/gallery12.jpg",
+        "title":"Colorful homes are our passion"
+    },   { 
+        "url":"/img/gallery/gallery13.jpg",
+        "title":"Go on a hiking trip on the many mountains we have to offer"
+    },   { 
+        "url":"/img/gallery/gallery14.jpg",
+        "title":"You can Airbnb a mansion on the mountainside for a good price"
+    },   { 
+        "url":"/img/gallery/gallery15.jpg",
+        "title":"Our tour guides can help you explore"
+    },   { 
+        "url":"/img/gallery/gallery16.jpeg",
+        "title":"A day at our beaches will leave you so relaxed"
+    }
+]
+}

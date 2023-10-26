@@ -1,0 +1,95 @@
+{
+   "title": "Welcome to Colombia",  
+   "description": "Soaring Andean summits, unspoiled Caribbean coast, enigmatic Amazon jungle and cryptic archaeological ruins. Colombia boasts all of South America's allure and more. On your trip to Colombia, you can enjoy stunning cities like Bogotá, Cartagena, Cali or Barranquilla, delight in the colorful Barranquilla Carnival and soak up the natural beauty of the Sierra Nevada de Santa Marta mountain range and Tayrona National Park. The coffee region is also a very popular destination, especially the traditional town of Salento, Quindío and its surroundings. Fairly recently, Bogotá, the nation's capital, has become Colombia's major tourist destination because of its improved museums and entertainment facilities and its major urban renovations, including the rehabilitation of public areas, the development of parks, and the creation of an extensive network of cycling routes. With its very rich and varied geography, which includes the Amazon and Andean regions, the Llanos, the Caribbean and Pacific coasts, and the deserts of La Guajira and Tatacoa Desert, and its unique biodiversity, Colombia also has major potential for ecotourism. To make the most of your stay, let's get familiar with some of the practicalities that will help you navigate the country and its culture", 
+    "slideshow": [
+        "/img/slides/slide1.jpg" ,
+        "/img/slides/slide2.jpg" ,
+        "/img/slides/slide3.jpg"
+    ],
+    "services":[
+        {
+            "title": "Transportation" ,
+            "intro": "Urban transport systems have been developed in Bogotá, Medellín, Cali and Barranquilla.The nation's rail network links seven of the country's 10 major cities. During 2004-6, approximately 2,000 kilometers of the country's rail lines underwent refurbishment." ,
+            "lists": [
+                "Railways",
+                "Roads and Highways",
+                "Aviation"
+            ],
+            "image":"/img/homepage/maintaxi.jpg"
+        
+        },
+        {
+            "title": "Tours" ,
+            "intro": "Whether you're seeking adventure sports, flamboyant fiestas, architectural wonders, or wildlife encounters, Colombia's rhythm will get you moving. Colombia is a tantalizing mix of old and new: charming city centers and cobblestone streets, interwoven with a thriving cultural scene and a spicy-hot nightlife that extends to the early hours of the morning. Whether you want to feel the Caribbean sand between your toes on the beaches of Tayrona National Park, rappel through Colombia's tallest waterfalls in San Gil, or grab a partner and dance to the pulse of Afro-influenced rhythms. Colombia is calling as the best-kept secret of South America." ,
+            "lists": [
+                "Museo de Oro",
+                "Piedra del Peñol",
+                "Parque Nacional Natural El Cocuy"
+            ],
+            "image":"/img/homepage/maintours.jpeg"
+        },
+        {
+            "title": "Cultural Foods" ,
+            "intro": "Colombian cuisine is a compound of the culinary traditions of the six main regions within Colombia (Pacific, Amazonian, Andean, Orinoco, Caribbean, and Insular). Colombian cuisine varies regionally and is particularly influenced by Indigenous Colombian, Spanish, and African cuisines, with slight Arab influence in some regions.As one of the most biodiverse countries in the world, Colombia has one of the widest variety of available ingredients depending on the region." ,
+            "lists": [
+                "Arepas ",
+                "Buñuelos",
+                "Bandeja paisa"
+            ],
+            "image":"/img/homepage/tradfood.jpeg"
+        },{
+            "title": "Learn the Language" ,
+            "intro": "The majority of Colombians speak Spanish (see also Colombian Spanish), but in total 90 languages are listed for Colombia in the Ethnologue database. The specific number of spoken languages varies slightly since some authors consider as different languages what others consider to be varieties or dialects of the same language. Best estimates recorded 71 languages that are spoken in-country today—most of which belong to the Chibchan, Tucanoan, Bora–Witoto, Guajiboan, Arawakan, Cariban, Barbacoan, and Saliban language families. There are currently about 850,000 speakers of native languages. Below includes schools that give spanish lessons" ,
+            "lists": [
+                "Universidad Santo Tomás",
+                "Toucan Spanish School",
+                "Centro Catalina"
+            ],
+            "image":"/img/homepage/spanish.jpg"
+        }
+    ],
+    "packages":[
+        {
+            "title":"Piedra del Peñol",
+            "image": "/img/piedra.jpeg",
+            "text":"Also known as El Peñon de Guatapé, thanks to the fierce rivalry between the towns it straddles, this 200m-high granite monolith rises from near the edge of the Embalse Guatapé. A brick staircase of 659 steps rises up through a broad fissure in the side of the rock. From the top there are magnificent views of the region, the fingers of the lake sprawling amid a vast expanse of green mountains. Medellín–Guatape buses can drop you off at 'La Piedra.'",
+            "price":"50",
+            "duration":"5 hours"
+        },
+        {
+            "title":"Mueseo de Oro",
+            "image": "/img/museodeoro.jpeg",
+            "text":"Bogotá's most famous museum and one of the most fascinating in South America, the Gold Museum contains more than 55,000 pieces of gold and other materials from all of Colombia's major pre-Hispanic cultures. The collection is laid out in logical, thematic rooms over three floors; descriptions are in Spanish and English.Second-floor exhibits break down findings by region, with descriptions of how pieces were used.",
+            "price":"30",
+            "duration":"3 hours"
+        },
+        {
+            "title":"Parque Nacional Natural El Cocuy",
+            "image": "/img/cocuy.jpeg",
+            "text":"One of Colombia's most spectacular national parks, PNN El Cocuy is mostly made up of a diverse ecosystem known as the páramo. This glacially formed, neotropical system of valleys, plains and mountain lakes includes the largest glacier zone in South America north of the equator. The park has 15 peaks that are at least 5000m, the highest being Ritacuba Blanco at 5330m, and is an outdoor playground popular for trekking, mountaineering, camping and climbing.",
+            "price":"150",
+            "duration":"6 hours"
+        },
+        {
+            "title":"Parque Arqueológico",
+            "image": "/img/arqueo.jpeg",
+            "text":"This 78-hectare archaeological park is 2.5km west of the town of San Agustín. There are over 130 statues in the park in total, including some of the best examples of San Agustín statuary, with human or animal features, or a mixture of the two.  Reputable guides congregate around the museum. At the entrance to the park is the Museo Arqueológico, which features smaller statues, pottery, utensils, jewelry and other objects.",
+            "price":"70",
+            "duration":"8 hours"
+        },
+        {
+            "title":"Old Town",
+            "image": "/img/oldtown.jpeg",
+            "text":"Cartagena's old city is its principal attraction, particularly the inner walled town, consisting of the historical districts of El Centro and San Diego. It's one of finest examples of preserved colonial architecture in the Americas, packed with churches, monasteries, plazas, palaces and mansions with their famous overhanging balconies and shady patios. The best way to experience the Old Town is to wander in leisurely fashion, savoring the architectural details, street life.",
+            "price":"700",
+            "duration":"2 Days"
+        },
+        {
+            "title":"Castillo de San Felipe de Barajas",
+            "image": "/img/castle.jpeg",
+            "text":"The greatest fortress ever built by the Spaniards in any of their colonies, the Castillo de San Felipe de Barajas still dominates an entire section of Cartagena's cityscape. It should definitely be the first fortress you visit. The original edifice was quite small. Construction began in 1657 on top of the 40m-high San Lázaro hill. In 1762 an extensive enlargement was undertaken, which resulted in the entire hill being covered with this powerful bastion.",
+            "price":"40",
+            "duration":"5 hours"
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "title": "Barranquilla",  
+    "description": "Barranquilla, also known as 'la Arenosa' (the Sandy) and 'Curramba la Bella'(Curramba the beautiful), is one of Colombia's major cities, as well as a key tourist destination for locals and foreigners. This city, where the long journey of the Magdalena River comes to an end, is home to a many great musicians, writers, and painters. It is also the stage of one of the country's most important celebrations: the Carnival of Barranquilla. Joy, music, and tradition are so much a part of this Colombian city, down to each of its squares and streets, that every day feels like a real carnival. The charm, warmth, and energy of the people of Barranquilla captivate the city's visitors. The famed quote from singer Joe Arroyo, 'in Barranquilla I'll stay,' reflects the sentiment of many upon visiting this beautiful city.Thanks to its favorable geography, Barranquilla, capital of the Atlántico Department, has one of the most important ports in the whole country. Thanks to this famous port, Barranquilla is also known as the 'Golden Gate' of Colombia. Barranquilla's port, in addition to other factors, has allowed it to position itself as a city with high potential for economic and industrial development.", 
+     "slideshow": [
+         "/img/city1/baran1.jpg" ,
+         "/img/city1/baran2.jpg" ,
+         "/img/city1/baran3.jpg"
+     ],
+     "services":[
+         {
+             "title": "Join us for Carnival" ,
+             "intro": "The Barranquilla's Carnival is one of Colombia's most important folkloric celebrations, and one of the biggest carnivals in the world. The carnival has traditions that date back to the 19th century. Four days before Lent, Barranquilla decks itself out to receive national and foreign tourists to join together with the city's inhabitants to enjoy four days of intense festivities. During the carnival, Barranquilla's normal activities are put aside as the city gets busy with street dances, musical and masquerade parades." ,
+             "lists": [
+                 "Music",
+                 "Parades",
+                 "Street dances"
+             ],
+             "image":"/img/city1/baracarni.jpg"
+             
+         },
+         {
+             "title": "Barranquilla Transportation" ,
+             "intro": "When first arriving to Barranquilla, public transportation can seem daunting, confusing, and overwhelming. While at its core you can find similarities between public transportation in Barranquilla and public transportation in other big cities around the world, you’ll also find there are many differences and peculiarities that can cause chaos if you are not aware of them!" ,
+             "lists": [
+                 "Transmetro",
+                 "Taxi",
+                 "Buses"
+             ],
+             "image":"/img/city1/baratrans.jpg"
+             
+         },
+         {
+            "title": "Shopping in Barranquilla" ,
+            "intro": "Nowadays, when local visitors – and especially tourists – go to a mall, they are looking for a great shopping experience, and connectivity plays a key role in making that happen. Barranquilla is visited by many shoppers looking for a great shopping experience. Barranquilla is the largest city in the state and has the second largest port in the northern Caribbean Coast." ,
+            "lists": [
+                "Centro Comercial Buenavista",
+                "Viva Centro Comercial",
+                "Centro Comercial Portal del Prado"
+            ],
+            "image":"/img/city1/baranshop.jpg"
+            
+
+        },
+        {
+            "title": "Churches & Cathedrals" ,
+            "intro": "Religion in Colombia is dominated by various branches of Christianity and is an expression of the different influences in the Colombian culture including the Spanish, the Native Amerindian and the Afro-Colombian, among others.[2] Colombia is a secular country and the freedom of religion is enshrined in the nation's constitution. The Ministry of Interior is responsible for formally recognizing churches, religious denominations, religious federations and confederations, and associations of religious ministers" ,
+            "lists": [
+                "Catedral Metropolitana María Reina de Barranquilla ",
+                "Iglesia de la Inmaculada Concepción",
+                "Parroquia de San Nicolás de Tolentino"
+            ],
+            "image":"/img/city1/baranchurch.jpg"
+        }
+     ],
+     "packages":[
+         {
+             "title":"Sailing",
+             "image": "/img/city1/sailing.jpg",
+             "text":"Barranquilla is located outside the hurricane zone, so it is a safe harbor for sailors who travel the Caribbean on yachts and sailboats. Travelers find mooring, water, wireless internet, bath, shower, and laundry services, 24-hour security at the ports. If you are sailing from Santa Marta to Cartagena, you can stop for the night at Puerto Valero. Many cruisers leave their boats and explore Colombia from there.",
+             "price":"400",
+             "duration":"4 hours"
+         },
+         {
+             "title":"Caribbean Museum",
+             "image": "/img/city1/caribbean.jpeg",
+             "text":"At the Caribbean Museum, located in the Caribbean Cultural Park in the historic center of Barranquilla, travelers come to learn about the cultural roots of Colombia’s Caribbean coast. Here you can visit the Macondo media library, specializing in the work of Gabriel García Márquez, and view exhibits on topics such as music festivals, literature, indigenous culture, and the nature of the region.",
+             "price":"40",
+             "duration":"3 hours"
+         },
+         {
+             "title":"Obregon’s Stay in Atlántico",
+             "image": "/img/city1/obregan.jpeg",
+             "text":"Alejandro Obregón, was born in Barcelona (Spain), and raised in Barranquilla where he became a painter. Part of his legacy can be seen in the 'Land, water and air', 'the alligator is going', 'Legend of Barranquilla' and 'The Mulatto' pictures which are displayed in the in Mizrahi building, in the Amira de la Rosa Municipal Theatre, in the old customs building and the popular bar-restaurant La Cueva, respectively.",
+             "price":"10",
+             "duration":"1 hour"
+         },
+         {
+             "title":"Salamanca Island Nature Reserve",
+             "image": "/img/city1/salamanca.png",
+             "text":"From Barranquilla you can visit the Salamanca Island Nature Reserve in the jurisdiction of the towns of Pueblo Viejo and Sitio Nuevo. Bird watching is very popular in this reserve, where 199 species of birds have been recorded. This group of small islands includes almost 140,000 acres of mangrove forests and freshwater ecosystem vegetation. Worth every penny!",
+             "price":"50",
+             "duration":"4 hours"
+         },
+         {
+             "title":"Puerto Velero",
+             "image": "/img/city1/velero.jpeg",
+             "text":"In the town of Tubará, 17 miles southwest of Barranquilla, tourists can find good beaches for sunbathing and water sports. Sailors from all over the world can dock their sailboats and yachts at the marina and receive accommodation and maintenance, among services. The port is located outside the hurricane belt. Come on this tour for a once in a lifetime experience.",
+             "price":"30",
+             "duration":"2 Days"
+         },
+         {
+             "title":"Bocas de Ceniza",
+             "image": "/img/city1/bocas.jpeg",
+             "text":"The waters of the Magdalena River meet the Caribbean Sea at Bocas de Ceniza, the main mouth of Colombia’s most important waterway. On this site, narrow embankments were built along the river to strengthen and increase the current and minimize sediment accumulation. Our tour guides will lead you on an amazing journey through the waterway, that will leave you with great stories and pictures!",
+             "price":"20",
+             "duration":"2 hours"
+         }
+     ]
+ }

@@ -1,0 +1,95 @@
+{
+    "title": "Cali",  
+    "description": "Cali, a hotbed for Salsa music, is located in a valley adjacent to the magnificent Andes Mountains. Hop in a car, and you can be at the ocean in just a couple of hours. But Colombia’s third-largest city is best known for its energetic atmosphere, growing economy, and bustling nightlife. With over 2 million people, Cali is a center of Latin culture, industry, and education. If you’re looking for an exciting life in the city, Cali might be the place for you. Cali’s warm weather, low cost of living, and bustling nightlife all make the city an attractive option for those looking for some Latin flavor. The Alfonso Bonilla Aragón International Airport has direct flights all over the Americas, including routes to the United States. You can fly nonstop from Cali to Miami for just $390 roundtrip. Colombia’s nature-filled Coffee Triangle is just four hours away by bus, with tickets as low as $7. You can also reach Colombia’s west coast in just a couple of hours. Transportation to the ocean costs less than $10. Cali’s ever-expanding public transport system makes it easy to get around the city. A trip on the local MIO bus system costs just $0.70. MIO also operates cable cars, which transport you up hilly areas with 360-degree views of the city. Uber is also available, with rides costing a fraction of what they would in a major United States city.", 
+     "slideshow": [
+         "/img/city2/cali1.jpg" ,
+         "/img/city2/cali2.jpg" ,
+         "/img/city2/cali3.jpg"
+     ],
+     "services":[
+         {
+             "title": "Cali Transportation " ,
+             "intro": "There’s no metro in Cali, but the Masivo Integrado de Occidente (Mio) mass transit system runs through 95% of the city in separate lanes. It's a nice way to explore the city too and get to know the lay of the land. The stations remain clean and the carriages are air-conditioned. You can get a Mio card for 3,000COP (US $1) from many stations. Each trip costs 2,000COP (US $0.70). Try to avoid peak times in the morning and evening, as lines can be lengthy." ,
+             "lists": [
+                 "Taxis",
+                 "Buses",
+                 "Walking"
+             ],
+             "image":"/img/city2/calitrans.jpg"
+             
+         },
+         {
+             "title": "Shopping in Cali" ,
+             "intro": "In recent years, Cali has seen the construction of a number of modern shopping centers, where the beautiful women of Colombia can be seen sporting the latest fashions. Tourists can find a great variety of clothing and other products from the most important Colombian and international brands. These shopping centers also offer dining and entertainment options." ,
+             "lists": [
+                 "Centro Comercial Jardin Plaza",
+                 "Pacific Mall",
+                 "Centro Comercial Palmas Mall"
+             ],
+             "image":"/img/city2/calishop.jpg"
+         },
+         {
+            "title": "Architecture" ,
+            "intro": "Colombia‘s architecture is a heady mix of historic and modern, and has been heavily influenced by the styles of other countries, most notably Spain and Britain. While the big cities feature some striking buildings, the rural towns have plenty of lesser-known gems, too. Here’s our selection of the most historical landmarks in Colombia – and the stories behind them" ,
+            "lists": [
+                "La Ermita Church",
+                "Cristo rey ",
+                "Edificio Coltabaco"
+            ],
+            "image":"/img/city2/skyline.jpg"
+        },{
+            "title": "Salsa Capital" ,
+            "intro": "Cali's music, thanks to the city's rich ethnic diversity, ranges from the currulao of the Pacific coast to the city's star: salsa, the contagious, frenetic rhythm that is ingrained in the country's culture. Cali is known by the rest Colombia as the 'Rumba Capital' and by the world as the 'Salsa Capital', thanks to its characteristic street parties and dance." ,
+            "lists": [
+                "Dance lessons ",
+                "Largest salsa record archive",
+                "World Salsa Championship"
+            ],
+            "image":"/img/city2/salsa.jpg"
+        }
+     ],
+     "packages":[
+         {
+             "title":"Salsa Classes",
+             "image": "/img/city2/class.jpeg",
+             "text":"Cali is salsa! Although this musical genre is not native to Cali, salsa needed to be infected by Cali's tropically-infused culture. Since its arrival, it has become so popular that many people who come to this city in the Valle del Cauca are looking for a taste of salsa. In recent years, tourism has increased both nationally and internationally.",
+             "price":"50",
+             "duration":"2 hours"
+         },
+         {
+             "title":"International Ballet Festival",
+             "image": "/img/city2/ballet.jpeg",
+             "text":"Take a break from frenzied salsa steps to enjoy the gentle movements of classical dance by attending the International Ballet Festival held in Cali every April. Invited international companies and the Colombian Institute of Ballet (Incolballet) participate in this event, which is held in various venues across the city.",
+             "price":"350",
+             "duration":"3 hours"
+         },
+         {
+             "title":"La Ermita Church",
+             "image": "/img/city2/mita.jpeg",
+             "text":"Known for its Gothic style, La Ermita Church is the quintessential postcard image of Cali. This temple was built between 1930 and 1948, The musical clock and windows are from Amsterdam, while the iron gates were manufactured in Cali in 1973. La Ermita preserves images more than three centuries old, such as those of the Virgen de los Dolores,",
+             "price":"25",
+             "duration":"1.5 hours"
+         },
+         {
+             "title":"Caycedo square",
+             "image": "/img/city2/square.jpeg",
+             "text":"Caycedo square is the commercial, religious and civic heart of life in Cali, a park in the historic centre of the capital of the department of Valle del Cauca in which several palm trees stretch up toward the sky. The square’s name is a tribute to Joaquín Cayzedo y Cuero a hero of our Independence, whose statue stands in the centre of the square.",
+             "price":"15",
+             "duration":"1 hour"
+         },
+         {
+             "title":"Hacienda Paraíso",
+             "image": "/img/city2/para.jpeg",
+             "text":"The Hacienda El Paraíso is located in El Cerrito, north of Cali. This is a beautifully preserved 19th century country house that tells the love story immortalized by Jorge Isaacs in his novel “María.” The mansion was the scene of the romance between Efrain and María, which ended with her death a few days before his return from Europe.",
+             "price":"60",
+             "duration":"2 hours"
+         },
+         {
+             "title":"Los Farallones de Cali National Nature Park",
+             "image": "/img/city2/fara.jpeg",
+             "text":"Species such as the spectacled bear and the anteater, along with Colombian Rock chickens, parrots, and eagles inhabit the Los Farallones de Cali National Nature Park in the Western Cordillera. The Park’s relaxing landscapes are also home to marsupials and monkeys, and feature camping areas and a visitor center.",
+             "price":"150",
+             "duration":"1 day"
+         }
+     ]
+ }

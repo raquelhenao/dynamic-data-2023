@@ -1,0 +1,94 @@
+{
+    "title": "Bogota",  
+    "description": "Bogotá is the capital of and largest city in Colombia. It is a place of convergence for people from all around the country and is therefore diverse and multicultural. Within this city, the past and present come together. The city is also very green thanks to its parks and the hills that extend along its eastern boundary, dwarfed by their two highest points, Monserrate and Guadalupe. The landscape that the people of Bogotá enjoy daily—the sea of green that makes up the Andes mountain range, rising up in the east—would be nearly impossible to find in any other large city. But Bogotá also has the colors of modern buildings and authentic colonial roof tiles that are a true historical treasure from the colonial era. Thanks to this fusion of the past and present, Bogotá is an ideal location with history, entertainment, delicious cuisine, culture, business, and much more. Bogotá's location in Colombia or where Bogotá is a simple answer. The capital of Colombia is located in one of the six regions of the country, the Andean Region, which is located throughout the center of the Colombian territory. In the Cundiboyacense plateau and on the savanna that bears its name at an altitude or elevation of 2,600 meters above the sea level. Bogotá is the melting pot of Colombia. Here, all the cultures from different regions of the country have a place, from the cuisine of the Coffee Triangle to the exhilaration and joy of the Caribbean, or the artisanal heritage of Boyacá and the Valle de Cauca Festival. Bogotá brings together the best of Colombia, and for that reason, it should be at the top your list of places to visit.", 
+     "slideshow": [
+         "/img/city3/bog1.jpg" ,
+         "/img/city3/bog2.jpg" ,
+         "/img/city3/bog3.jpg"
+     ],
+     "services":[
+         {
+             "title": "Art and History Excursions" ,
+             "intro": "Visiting this city is like taking a deep, refreshing breath of culture, because in Bogotá, you'll find unforgettable events like permanent exhibitions of art and history from all eras, festivals, and amazing concerts. You can also visit visit other touristic places like one of Bogotá's exceptional libraries, see a theater production, attend a concert, or enjoy a small, private recital." ,
+             "lists": [
+                 "Museo Botero del Banco de la Republica",
+                 "Museo Santa Clara",
+                 "Museo de Arte del Banco de la Republica"
+             ],
+             "image":"/img/city3/arte.jpg"
+            
+         },
+         {
+             "title": "Festivals in the Park" ,
+             "intro": "The Rock in the Park Festival, which takes place in Bogotá in the summer, brings 300,000 music fans to the Simón Bolívar Park for a weekend. Famous Latin American bands (Café Tacuba, Molotov, and Apocalyptica, to name a few) have all performed at this festival, which was first held in 1995. The rock music festival gradually included other genres, such as punk, reggae, ska and blues music. Rather than grouping genres together, the festival's organizers promoted diversity by scheduling different types of musicians to participate alongside one another" ,
+             "lists": [
+                 "Rock music",
+                 "Reggae music",
+                 "Blues music"
+             ],
+             "image":"/img/city3/rock.jpg"
+         },
+         {
+            "title": "Urban Cycling" ,
+            "intro": "Arriving in a new city definitely gives you the sense of freedom, and urban cycling allows everyone to explore it in a unique way, while benefiting healthily by enhancing sports performance and participating in solutions and preventive measures taken in the face of environmental pollution. Tourists arriving in Bogota are amazed by the number of road corridors available for bicycle use, which is why the many hotels in the city offer a bike rental service with their lodging packages, to allow their guests to enjoy de city at their own rhythm and discover the charm that Colombia has to offer." ,
+            "lists": [
+                "Bikeways ",
+                "Ciclovia",
+                "Graffiti District"
+            ],
+            "image":"/img/city3/bogtrans.jpg"
+        },{
+            "title": "Festival de Teatro" ,
+            "intro": "The Ibero-American Theater Festival (FITB) is a cultural event originating in Bogotá, the 'World Capital of Theater'; It is international in nature and is held biennially in the city of Bogotá , Colombia . It was directed and produced, until her death in August 2008, by Fanny Mikey , a theater actress and cultural entrepreneur of Argentine origin nationalized in Colombia . It is the most important cultural event in Colombia and the largest performing arts festival in the world. The event has established itself as the largest theater festival in the world with more than 800 performances by 100 international companies and 170 Colombian companies, bringing together the most important theater companies in the world, from the five continents" ,
+            "lists": [
+                "Performing arts ",
+                "Storytelling",
+                "Classical art"
+            ],
+            "image":"/img/city3/festival.jpg"
+        }
+     ],
+     "packages":[
+         {
+             "title":"Jazz In The Park Festival",
+             "image": "/img/city3/jazz.jpeg",
+             "text":"The Jazz in the Park Festival is held in Bogotá in mid-September. Romantic melodies played on saxophones, pianos, and trumpets fill public spaces including the Simón Bolívar Park. The public has the opportunity to explore a musical genre unfairly thought of as elitist, but which has made a significant contribution to local fusion.",
+             "price":"50",
+             "duration":"5 hours"
+         },
+         {
+             "title":"Nemocón Salt Mine",
+             "image": "/img/city3/salt.jpeg",
+             "text":"An hour north of Bogotá, the Nemocón Salt Mine captivates visitors. Travelers walk along a mile of tunnels 263 feet underground, from which about 8 million tons of salt were extracted between 1816 and 1968. In the mine, 28 brine mirrors dissolve in the salt rocks, producing a stunning visual effect.",
+             "price":"30",
+             "duration":"3 hours"
+         },
+         {
+             "title":"Experience the countryside on a horseback riding tour",
+             "image": "/img/city3/horset.jpeg",
+             "text":"Imagine enjoying stunning landscapes and astonishing biodiversity from a completely different angle - the back of a horse.Short tours will guide you along beautiful trails and multi-day immersive experiences will help you discover new destinations at your horse's pace.",
+             "price":"150",
+             "duration":"6 hours"
+         },
+         {
+             "title":"House of the Marquis of San Jorge",
+             "image": "/img/city3/sanjorge.jpeg",
+             "text":"In the House of the Marquis of San Jorge Archaeological Museum, which is housed in a late-seventeenth-century building, travelers can see a collection of pre-Columbian ceramics from cultures including the Muisca, the Chimila, the Calima, and the Guane. Join our tour guide for an experience you wont forget!",
+             "price":"70",
+             "duration":"4 hours"
+         },
+         {
+             "title":"La Candelaria neighborhood",
+             "image": "/img/city3/candel.jpeg",
+             "text":"Any conversation about the La Candelaria neighborhood is a conversation about the history of Bogotá. If you are wondering what does Candelaria mean, you must know It was the place where the city was founded in 1538, and takes its name from a Catholic chapel dedicated in honor of the Virgen de la Candelaria.",
+             "price":"700",
+             "duration":"2 Days"
+         },
+         {
+             "title":"Jorge Eliécer Gaitán Municipal Theater",
+             "image": "/img/city3/jorge.jpeg",
+             "text":"One of the most important cultural venues in the city is the Jorge Eliécer Gaitán Municipal Theater, which hosts major events such as the Iberoamerican Theatre Festival of Bogotá, the International Jazz Festival, and the Festival of Contemporary Dance. This venue also offers concerts of all genres, as well as full seasons of opera and zarzuela.",
+             "duration":"5 hours"
+         }
+     ]
+ }
