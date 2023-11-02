@@ -1,0 +1,146 @@
+{"fields": [
+{
+    "type":"text",
+    "name":"funny_word_1",
+    "desc":"funny word"
+   
+},
+{
+    "type":"text",
+    "name":"funny_word_2",
+    "desc":"funny word"
+   
+},
+{
+    "type":"text",
+    "name":"adjective_1",
+    "desc":"adjective"
+   
+},
+{
+    "type":"text",
+    "name":"noun_1",
+    "desc":"noun plural"
+   
+},
+{
+    "type":"text",
+    "name":"noun_2",
+    "desc":"noun plural"
+   
+},
+{
+    "type":"text",
+    "name":"adjective_2",
+    "desc":"adjective"
+   
+},
+{
+    "type":"text",
+    "name":"noun_3",
+    "desc":"noun"
+   
+},
+{
+    "type":"text",
+    "name":"number_1",
+    "desc":"number"
+},
+{
+    "type":"text",
+    "name":"verb_1",
+    "desc":"verb"
+   
+},
+{
+    "type":"text",
+    "name":"male_name_1",
+    "desc":"male name"
+   
+},
+{
+    "type":"text",
+    "name":"adjective_3",
+    "desc":"adjective"
+   
+},
+{
+    "type":"text",
+    "name":"noun_4",
+    "desc":"noun"
+   
+},
+{
+    "type":"text",
+    "name":"adjective_4",
+    "desc":"adjective"
+   
+},
+{
+    "type":"text",
+    "name":"noun_5",
+    "desc":"noun"
+   
+},
+{
+    "type":"text",
+    "name":"verb_2",
+    "desc":"verb Ending with ED"
+    
+   
+},
+{
+    "type":"text",
+    "name":"Place_1",
+    "desc":"Place"
+   
+},
+{
+    "type":"text",
+    "name":"noun_6",
+    "desc":"noun"
+   
+},
+{
+    "type":"text",
+    "name":"adjective_5",
+    "desc":"adjective"
+   
+},
+{
+    "type":"text",
+    "name":"adjective_6",
+    "desc":"adjective"
+   
+},
+{
+    "type":"text",
+    "name":"verb_3",
+    "desc":"verb Ending with ED"
+   
+},
+{
+    "type":"text",
+    "name":"noun_7",
+    "desc":"noun"
+   
+},
+{
+    "type":"text",
+    "name":"noun_8",
+    "desc":"noun"
+   
+},
+{
+    "type":"text",
+    "name":"verb_4",
+    "desc":"verb Ending with ED"
+   
+},
+{
+    "type":"text",
+    "name":"noun_9",
+    "desc":"noun plural"
+   
+}
+]}
