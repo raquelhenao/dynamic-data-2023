@@ -1,0 +1,63 @@
+{
+    "title": "Holiday Specials",  
+    "description": "", 
+     
+
+     "static":[
+        {
+            "image":"/img/banners/ban3.jpg" 
+        }
+    ],
+    "holidayspecials":[
+        {
+         "url":"/items",
+         "title":"Spruce Tree Cake $4.25",
+         "image":"/img/holiday/holiday12.jpg"
+     },
+     {
+         "url":"/items",
+         "title":"Goodies Board $24",
+         "image":"/img/holiday/holiday1.jpg"
+     },   {
+         "url":"/items",
+         "title":"Gingerbread Cookies $15",
+         "image":"/img/holiday/holiday8.jpg"
+     },   {
+         "url":"/items",
+         "title":"4th of July Cookies $10",
+         "image":"/img/holiday/holiday3.jpg"
+     },   {
+         "url":"/items",
+         "title":"Star Bites $12",
+         "image":"/img/holiday/holiday4.jpg"
+     },   {
+         "url":"/items",
+         "title":"Tree Cupcakes $28",
+         "image":"/img/holiday/holiday5.jpg"
+     },   {
+         "url":"/items",
+         "title":"Ornament Cake $12",
+         "image":"/img/holiday/holiday6.jpg"
+     },   {
+         "url":"/items",
+         "title":"Hohoho Cookie $12",
+         "image":"/img/holiday/holiday10.jpg"
+     },   {
+         "url":"/items",
+         "title":"Christmas Characters $29",
+         "image":"/img/holiday/holiday2.jpg"
+     },   {
+         "url":"/items",
+         "title":"Merry Christmas Cookie $5.25",
+         "image":"/img/holiday/holiday9.jpg"
+     },   {
+         "url":"/items",
+         "title":"Holly Jolly Frosted $15",
+         "image":"/img/holiday/holiday7.jpg"
+     },   {
+         "url":"/items",
+         "title":"Crumble Cake $28",
+         "image":"/img/holiday/holiday11.jpg"
+     }
+  ]
+ }

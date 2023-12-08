@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delightful {{#if title}}{{title}}{{/if}}</title>
+    <link rel="stylesheet" href="/js/owl/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="/js/owl/assets/owl.theme.default.min.css">
+    <link rel="stylesheet" href="/css/bootstrap.css">
+    <link rel="stylesheet" href="/styles.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+</head>
+
+<body class="secondary-color mukta">
+    {{!-- this controls the text color --}}
+
+    <div class="container-fluid white-bg"> {{>navbar}}
+        {{!-- im not sure what color this chnages --}}
+
+        
+
+        {{#if data.static}}
+
+        {{#each data.static}}
+        <div class="item">
+            <img class="img-fluid" src="{{this.image}}" alt="">
+        </div>
+
+        {{/each}}
+
+        {{/if}}
+
+
+
+    </div>
+
+
+    <div class="container-lg secondary-color">
+        {{!-- im sure color here either --}}
+
+
+
+        {{{body}}}
+
+
+
+    </div>
+
+    <div class="container-lg">
+        {{#if data.forms}}
+        <ul>
+            <h2>Checkout</h2>
+
+<form class="form-horizontal" action="/newsletter-signup/process" role="form" method="POST">
+
+    <input type="hidden" name="_csrf" value="{{csrf}}">
+
+    <div class="form-group">
+        <label for="fieldFirstName" class="col-sm-2 control-label">First Name</label>
+        <div class="col-sm-4">
+            <input type="text" name="firstname" class="form-control" id="fieldFirstName" required>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label for="fieldLastName" class="col-sm-2 control-label">Last Name</label>
+        <div class="col-sm-4">
+            <input type="text" name="lastname" class="form-control" id="fieldLastName" required>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label for="fieldAddress" class="col-sm-2 control-label">Address</label>
+        <div class="col-sm-4">
+            <input type="text" name="address" class="form-control" id="fieldAddress" required>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label for="fieldCity" class="col-sm-2 control-label">City</label>
+        <div class="col-sm-4">
+            <input type="text" name="city" class="form-control" id="fieldCity" required>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label for="fieldState" class="col-sm-2 control-label">State</label>
+        <div class="col-sm-4">
+            <input type="text" name="state" class="form-control" id="fieldState" required>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label for="fieldZip" class="col-sm-2 control-label">Zip</label>
+        <div class="col-sm-4">
+            <input type="text" name="zip" class="form-control" id="fieldZip" required>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label for="fieldEmail">Email</label>
+        <div class="col-sm-4">
+            <input type="email" class="form-control" name="email" id="fieldEmail" required>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-sm-offset-2 col-sm-4">
+            <button class="btn btn-primary" type="submit">Register</button>
+        </div>
+    </div>
+</form>
+
+
+
+        </ul>
+
+
+
+        {{/if}}
+
+    </div>
+
+    <footer class="white-bg" style="text-align: center;">
+        Copyright 2023 - Raquel Henao
+    </footer>
+
+
+
+    <!--  jQuery should always be the first script -->
+    <script src="https://code.jquery.com/jquery-3.7.1.js"
+        integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+    <script src="/js/bootstrap.bundle.js"></script>
+    <script src="/js/owl/owl.carousel.min.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+        crossorigin="anonymous"></script>
+
+    <script>
+        $(function () {
+            //slideshow
+            $('.owl-slideshow').owlCarousel({
+                loop: true,
+                margin: 0,
+                nav: true,
+                responsive: {
+                    0: {
+                        items: 1
+                    },
+                    600: {
+                        items: 1
+                    },
+                    1000: {
+                        items: 1
+                    }
+                }
+            });
+
+            //packages
+
+            $('.owl-packages').owlCarousel({
+                loop: true,
+                margin: 0,
+                nav: true,
+                responsive: {
+                    0: {
+                        items: 1
+                    },
+                    600: {
+                        items: 2
+                    },
+                    1000: {
+                        items: 3
+                    }
+                }
+            });
+
+
+        });
+
+    </script>
+</body>
+
+</html>

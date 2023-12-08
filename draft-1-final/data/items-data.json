@@ -1,0 +1,44 @@
+{
+    "items":[
+        {
+            "image":"/img/goods/finalitem.jpg"           
+        },
+        {
+            "title":"Fruit Delight",
+            "price":"$25",
+            "description":"This fresh fruit cake is bursting with sweet juicy seasonal fruit. It is made with fluffy whipped cream   layers of soft Genoise cake   and any fruit of your choice! This cake is just like the beautiful Asian fruit cakes sold in Korean, Chinese and Japanese bakeries. This fresh fruit cake is bursting with sweet juicy seasonal fruit. It is made with fluffy whipped cream layers of soft Genoise cake and any fruit of your choice! This cake is just like the beautiful Asian fruit cakes sold in Korean, Chinese and Japanese bakeries.",
+            "button":"Add to Cart"
+        }
+    ],
+    "details":[
+        {
+            "image":"/img/itemslides/itemimages1.jpg"
+        },{
+            "image":"/img/itemslides/itemimages3.jpg"
+        }, {
+            "image":"/img/itemslides/itemimages2.jpg"
+        },{
+            "image":"/img/itemslides/itemimages4.jpg"
+        }
+    ],
+    "categories": [
+        { 
+            
+            "url":"/bakedgoods",
+            "image":"/img/goods/good3.jpg"
+         },
+         { 
+            "url":"/bakedgoods",
+            "image":"/img/goods/good9.jpg"
+         }, { 
+            "url":"/bakedgoods",
+            "image":"/img/goods/good10.jpg"
+         },{
+            "url":"/bakedgoods",
+            "image":"/img/goods/good7.jpg"
+         }
+       
+    ]
+   
+   
+}

@@ -1,0 +1,292 @@
+<div class="section-divider" id="about"></div>
+<h1 class="secondary-color mukta-bold">{{data.title}} </h1>
+<p>{{data.description}}</p>
+
+
+
+{{#if data.slideshow }}
+<div class="owl-slideshow owl-carousel owl-theme">
+  {{#each data.slideshow}}
+  <div class="item">
+    <img class="img-fluid" src="{{this}}" alt="">
+  </div>
+  {{/each}}
+</div>
+{{/if}}
+
+
+{{#if data.packages}}
+<div class="section-divider " id="packages"></div>
+<h1>Popular Desserts</h1>
+<div class="owl-theme owl-carousel owl-packages">
+  {{#each data.packages}}
+  <div class="card">
+    {{#if this.image}}
+    <img src="{{this.image}}" class="card-img-top" alt="...">
+    {{/if}}
+
+
+
+  </div>
+  {{/each}}
+</div>
+{{/if}}
+
+
+
+
+
+
+{{#if gallery.images}}
+<div class="section-divider" id="gallery"></div>
+<h2>Our Delicious Products</h2>
+<div class="row">
+  {{#each gallery.images}}
+  <div class="col-3">
+
+    {{#if this.image}}
+
+    <a href="{{this.url}}">
+
+      <img src="{{this.image}}" alt="{{this.title}}" class="img-thumbnail"></a>
+    <h4 style="text-align: center;">{{this.title}}</h4>
+
+    {{/if}}
+
+
+
+
+  </div>
+  {{/each}}
+</div>
+
+{{/if}}
+
+
+
+
+{{#if data.items}}
+
+<div class="section-divider "></div>
+
+<div class="container white-bg">
+  <div class="row">
+    {{#each data.items}}
+
+    <div class="col">
+
+      <div class="info" style="text-align:left; padding:bottom=100px">
+        <h1>{{this.title}}</h1>
+        <h2>{{this.price}}</h2>
+        <p>{{this.description}}</p>
+
+        {{#if this.button}}
+        <a href="/cart">
+
+          <button>{{this.button}}</button>
+        </a>
+
+        {{/if}}
+      </div>
+
+
+
+      {{#if this.image}}
+      
+
+      <a href="{{this.url}}">
+
+        <img src="{{this.image}}" alt="{{this.title}}" class="img-thumbnail"></a>
+
+
+      {{/if}}
+    </div>
+
+
+
+    {{/each}}
+
+    {{/if}}
+
+
+    {{#if data.details}}
+
+    <div class="section-divider "></div>
+
+    <div class="container white-bg">
+      <div class="row">
+
+        {{#each data.details}}
+
+        <div class="col-md-auto">
+
+
+          {{#if this.image}}
+
+
+          <div style="width: 110px;">
+            <img src="{{this.image}}" alt="{{this.title}}" class="img-thumbnail"></a>
+          </div>
+
+
+          {{/if}}
+        </div>
+        {{/each}}
+      </div>
+    </div>
+
+    {{/if}}
+
+
+    {{#if data.categories}}
+
+    <div class="section-divider "></div>
+
+    <div class="container white-bg text-center">
+      <div class="row">
+        {{#each data.categories}}
+
+        <div class="col">
+
+         
+
+          {{#if this.image}}
+
+          <a href="{{this.url}}">
+
+            <img src="{{this.image}}" alt="{{this.title}}" class="img-thumbnail"></a>
+
+             <h1>{{this.title}}</h1>
+
+
+          {{/if}}
+        </div>
+
+
+
+        {{/each}}
+
+
+        {{/if}}
+
+        {{#if data.cart}}
+        <div class="section-divider" ></div>
+        <div class="container white-bg">
+          <div class="row">
+            {{#each data.cart}}
+            <div class="col" style="text-align: center;">
+              <div class="info" style="text-align:left;">
+                <h1>{{this.title}}</h1>
+                <h2>{{this.price}}</h2>
+                <p>{{this.description}}</p>
+              </div>
+              {{#if this.image}}
+              <a href="{{this.url}}">
+                <img src="{{this.image}}" alt="{{this.title}}" class="img-thumbnail"></a>
+              {{/if}}
+            </div>
+            {{/each}}
+            {{/if}}
+            
+
+        {{#if data.cart2}}
+        <div class="section-divider"></div>
+        <div class="container white-bg">
+          <div class="row">
+            {{#each data.cart2}}
+            <div class="col" style="text-align: center;">
+              <div class="info" style="text-align:left;">
+                <h1>{{this.title}}</h1>
+                <h2>{{this.price}}</h2>
+                <p>{{this.description}}</p>
+              </div>
+              {{#if this.image}}
+              <a href="{{this.url}}">
+                <img src="{{this.image}}" alt="{{this.title}}" class="img-thumbnail"></a>
+              {{/if}}
+            </div>
+            {{/each}}
+            {{/if}}
+
+
+
+        {{#if data.cart3}}
+        <div class="section-divider"></div>
+        <div class="container white-bg">
+          <div class="row">
+            {{#each data.cart3}}
+            <div class="col" style="text-align: center;">
+              <div class="info" style="text-align:left;">
+                <h1>{{this.title}}</h1>
+                <h2>{{this.price}}</h2>
+                <p>{{this.description}}</p>
+              </div>
+              {{#if this.image}}
+              <a href="{{this.url}}">
+                <img src="{{this.image}}" alt="{{this.title}}" class="img-thumbnail"></a>
+              {{/if}}
+            </div>
+            {{/each}}
+            {{/if}}
+
+
+
+
+
+
+{{#if data.bakedgoods}}
+<div class="section-divider" id="gallery"></div>
+<h2>Our Delicious Products</h2>
+<div class="row">
+  {{#each data.bakedgoods}}
+  <div class="col-3">
+
+    {{#if this.image}}
+
+    <a href="{{this.url}}">
+
+      <img src="{{this.image}}" alt="{{this.title}}" class="img-thumbnail"></a>
+    <h4 style="text-align: center;">{{this.title}}</h4>
+
+    {{/if}}
+
+
+
+
+  </div>
+  {{/each}}
+</div>
+
+{{/if}}
+
+{{#if data.holidayspecials}}
+<div class="section-divider" id="gallery"></div>
+<h2>Our Delicious Products</h2>
+<div class="row">
+  {{#each data.holidayspecials}}
+  <div class="col-3">
+
+    {{#if this.image}}
+
+    <a href="{{this.url}}">
+
+      <img src="{{this.image}}" alt="{{this.title}}" class="img-thumbnail"></a>
+    <h4 style="text-align: center;">{{this.title}}</h4>
+
+    {{/if}}
+
+
+
+
+  </div>
+  {{/each}}
+</div>
+
+{{/if}}
+
+
+
+
+
+
+          

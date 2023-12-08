@@ -6,6 +6,14 @@ const expressHandlebars= require('express-handlebars')
 
 const app = express()
 
+const handler = require('./lib/handler')
+
+const bodyParser = require('body-parser')
+
+
+
+app.use(bodyParser.urlencoded({ extended: true}))
+
 // configure our express app to use handlebar
 
 app.engine('handlebars', expressHandlebars.engine({
@@ -27,8 +35,26 @@ app.get('/mad',(req, res)=> {
     res.render('madform', {data})
 })
 
+
+
 app.get('/madprocess', (req,res)=>{
     res.render('madprocess', {req})
+})
+
+
+
+app.get('/newsletter-signup', handler.newsletterSignup)
+
+app.get('/newsletter/list', handler.newsletterSignupList)
+
+app.get('/newsletter/details/:email', handler.newsletterUser)
+
+app.post('/newsletter/delete', handler.newsletterUserDelete)
+
+app.post('/newsletter-signup/process', handler.newsletterSignupProcess)
+
+app.get('/newsletter/thankyou', (req, res)=>{
+    res.render('thankyou')
 })
 
 

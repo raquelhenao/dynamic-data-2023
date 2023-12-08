@@ -1,0 +1,57 @@
+{
+   "title": "",  
+   "description": "", 
+    "slideshow": [
+        "/img/itemslides/item1.jpg" ,
+        "/img/itemslides/item2.jpg" ,
+        "/img/itemslides/item3.jpg"
+    ],
+    
+    "packages":[
+        {
+            "title":"Piedra del Peñol",
+            "image": "/img/sliders/slider1.jpg"
+            
+        },
+        {
+            "title":"Mueseo de Oro",
+            "image": "/img/sliders/slider2.jpg"
+        },
+        {
+            "title":"Parque Nacional Natural El Cocuy",
+            "image": "/img/sliders/slider3.jpg"
+        },
+        {
+            "title":"Parque Arqueológico",
+            "image": "/img/sliders/slider4.jpg"
+        },
+        {
+            "title":"Old Town",
+            "image": "/img/sliders/slider5.jpg"
+        },
+        {
+            "title":"Castillo de San Felipe de Barajas",
+            "image": "/img/sliders/slider6.jpg"
+        }
+    ],
+
+    "categories": [
+        { 
+            
+            "url":"/bakedgoods",
+            "title":"Baked Goods",
+            "image":"/img/cats/cat1.jpg"
+         },
+         { 
+            "url":"/gifts",
+            "title":"Gifts",
+            "image":"/img/cats/cat2.jpg"
+         }, { 
+            "url":"holidayspecials",
+            "title":"Holiday Specials",
+            "image":"/img/cats/cat3.jpg"
+         }
+
+       
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "title": "Gifts",  
+    "description": "", 
+
+   
+     "static":[
+        {
+            "image":"/img/banners/ban2.jpg" 
+        }
+    ],
+    "bakedgoods":[
+        {
+         "url":"/items",
+         "title":"Cherry Cupcake $4.25",
+         "image":"/img/bakedgood/giftgal1.jpg"
+  
+  
+     },
+     {
+         "url":"/items",
+         "title":"Strawberry Delight $24",
+         "image":"/img/bakedgood/giftgal2.jpg"
+     },   {
+         "url":"/items",
+         "title":"Rose Petal Cupcake $15",
+         "image":"/img/bakedgood/giftgal3.jpg"
+     },   {
+         "url":"/items",
+         "title":"Blueberry Pie $10",
+         "image":"/img/bakedgood/giftgal4.jpg"
+     },   {
+         "url":"/items",
+         "title":"Tres Leches $12",
+         "image":"/img/bakedgood/giftgal12.jpg"
+     },   {
+         "url":"/items",
+         "title":"Confetti Cake $28",
+         "image":"/img/bakedgood/giftgal5.jpg"
+     },   {
+         "url":"/items",
+         "title":"Coffee Bun Cake $12",
+         "image":"/img/bakedgood/giftgal6.jpg"
+     },   {
+         "url":"/items",
+         "title":"Birthday Cake $12",
+         "image":"/img/bakedgood/giftgal7.jpg"
+     },   {
+         "url":"/items",
+         "title":"Pet Celebration $29",
+         "image":"/img/bakedgood/giftgal8.jpg"
+     },   {
+         "url":"/items",
+         "title":"Cookie Messages $5.25",
+         "image":"/img/bakedgood/giftgal9.jpg"
+     },   {
+         "url":"/items",
+         "title":"Candle Suprise $15",
+         "image":"/img/bakedgood/giftgal10.jpg"
+     },   {
+         "url":"/items",
+         "title":"Holiday Gift $28",
+         "image":"/img/bakedgood/giftgal11.jpg"
+     }
+  ]
+  }
+ 
